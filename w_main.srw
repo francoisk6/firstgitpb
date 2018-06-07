@@ -32,9 +32,9 @@ destroy(this.cb_1)
 end on
 
 type cb_1 from commandbutton within w_main
-integer x = 2487
-integer y = 160
-integer width = 448
+integer x = 2587
+integer y = 1568
+integer width = 498
 integer height = 112
 integer taborder = 10
 integer textsize = -10
@@ -43,6 +43,6 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "local to remote"
+string text = "local to remote 2"
 end type
 
